@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mandarin-online.com.au/sitemap-index.xml
